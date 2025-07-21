@@ -105,4 +105,19 @@ footer {
     color: #495057;
 }
 
+.proj-heading {
+    font-size: 44px;
+    font-weight: 700;
+    color: #212529;
+    margin-bottom: 8px;
+    letter-spacing: 1px;
+}
+
+.proj-heading-subtext {
+    font-size: 18px;
+    color: #6c757d;
+    margin-bottom: 40px;
+    max-width: 600px;
+}
+
 
