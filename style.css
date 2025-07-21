@@ -8,7 +8,6 @@ html, body {
 .content {
     flex: 1;
 }
-
 .navbar {
     font-size: 1.2rem; /* Bigger font for visibility */
 }
@@ -89,7 +88,21 @@ img {
 }
 footer {
   font-size: 22px;
+}
 
+.heading h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #1f4a8b;
+}
+
+.heading {
+    margin-top: 20px;
+}
+
+.heading p {
+    font-size: 20px;
+    color: #495057;
 }
 
 
