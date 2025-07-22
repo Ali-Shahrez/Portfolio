@@ -1,6 +1,7 @@
 html, body {
   height: 100%;
   margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: column;
 }
@@ -121,3 +122,12 @@ footer {
 }
 
 
+.pdf-container {
+  height: 100%;
+}
+
+embed {
+  height: 100%;
+  width: 100%;
+  border: none;
+}
