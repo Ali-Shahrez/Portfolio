@@ -1,4 +1,4 @@
-Personal Portfolio Website
+## Personal Portfolio Website
 
 Welcome to my personal portfolio website!  
 This site showcases my skills, projects, resume, and ways to contact me. It was built using **HTML**, **CSS**, and **Bootstrap** to ensure a clean, responsive, and modern design.
