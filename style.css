@@ -10,16 +10,16 @@ html, body {
     flex: 1;
 }
 .navbar {
-    font-size: 1.2rem; /* Bigger font for visibility */
+    font-size: 19px
 }
 
 .navbar-nav .nav-link {
-    padding: 0.5rem 1rem; /* Increase clickable area */
+    padding: 8px 16px
 }
 
 .navbar-brand {
     font-weight: bold;
-    font-size: 1.4rem;
+    font-size: 22px;
 }
 .navbar-nav {
     gap: 20px;
@@ -131,3 +131,33 @@ embed {
   width: 100%;
   border: none;
 }
+
+
+body {
+  background-color: #f8f9fa;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.contact-heading {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.contact-subtext {
+  font-size: 18px;
+  color: #6c757d;
+  margin-bottom: 40px;
+}
+
+.social-links a {
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.footer-note {
+  font-size: 14px;
+  color: #888;
+  margin-top: 40px;
+}
+
